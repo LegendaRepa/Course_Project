@@ -1,0 +1,39 @@
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\bin\Debug\Vista.exe.config
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\bin\Debug\Vista.exe
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\bin\Debug\Vista.pdb
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\obj\Debug\Vista.exe
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista\Vista\obj\Debug\Vista.pdb
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\bin\Debug\Vista.exe.config
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\bin\Debug\Vista.exe
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\bin\Debug\Vista.pdb
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\obj\Debug\Vista.exe
+C:\Users\омен\Desktop\Универ\II курс\ООП\Vista — копия\Vista\obj\Debug\Vista.pdb
+C:\Users\Doktor\Desktop\Vista — копия\Vista\bin\Debug\Vista.exe.config
+C:\Users\Doktor\Desktop\Vista — копия\Vista\bin\Debug\Vista.exe
+C:\Users\Doktor\Desktop\Vista — копия\Vista\bin\Debug\Vista.pdb
+C:\Users\Doktor\Desktop\Vista — копия\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Doktor\Desktop\Vista — копия\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Doktor\Desktop\Vista — копия\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Doktor\Desktop\Vista — копия\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Doktor\Desktop\Vista — копия\Vista\obj\Debug\Vista.exe
+C:\Users\Doktor\Desktop\Vista — копия\Vista\obj\Debug\Vista.pdb
+C:\Users\омен\Desktop\Vista — копия\Vista\bin\Debug\Vista.exe.config
+C:\Users\омен\Desktop\Vista — копия\Vista\bin\Debug\Vista.exe
+C:\Users\омен\Desktop\Vista — копия\Vista\bin\Debug\Vista.pdb
+C:\Users\омен\Desktop\Vista — копия\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\омен\Desktop\Vista — копия\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\омен\Desktop\Vista — копия\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\омен\Desktop\Vista — копия\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\омен\Desktop\Vista — копия\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\омен\Desktop\Vista — копия\Vista\obj\Debug\Vista.exe
+C:\Users\омен\Desktop\Vista — копия\Vista\obj\Debug\Vista.pdb
